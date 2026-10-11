@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+build/
+dist/
+installer_output/
+installer_Watermarked/
+*.exe
+*.deb
+corrected_files/
