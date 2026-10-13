@@ -1,16 +1,29 @@
+
 cff-version: 1.2.0
-message: "If you use this software in research, please cite this software release."
+message: "If you use this software in your research, please cite it using the following metadata."
 type: software
-title: "XPS Carbon Correction Tool"
+
+title: "XPS Carbon Correction"
+
 authors:
   - family-names: "Suresh Babu"
     given-names: "Sreerag Ponnarassery"
-repository-code: "https://github.com/sreeragpsuresh1997/XPS-Carbon_Correction"
-url: "https://github.com/sreeragpsuresh1997/XPS-Carbon_Correction"
+
 version: "1.0.1"
+date-released: "2026-10-13"
+
+doi: "10.5281/zenodo.23306324"
+
+repository-code: "https://github.com/sreeragpsuresh1997/XPS-Carbon_Correction"
+
+url: "https://doi.org/10.5281/zenodo.23306324"
+
+license: "MIT"
+
 keywords:
   - XPS
   - X-ray photoelectron spectroscopy
-  - binding energy referencing
-  - carbon correction
-license: MIT
+  - Carbon correction
+  - Binding energy correction
+  - C 1s referencing
+  - Scientific software
