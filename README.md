@@ -101,3 +101,22 @@ GitHub can also generate a citation from the repository's `CITATION.cff` file. U
 License and feedback
 See the repository's `LICENSE` file for the applicable license terms. Report problems or request improvements through GitHub Issues.
 Python codes developed with the help of ChatGPT
+
+
+## Trademark, Affiliation, and Legal Disclaimer
+
+**Independent Scientific Software**
+
+XPS Carbon Correction is an independently developed scientific application for C 1s binding-energy referencing and correction of X-ray photoelectron spectroscopy (XPS) datasets.
+
+This software is not affiliated with, endorsed by, sponsored by, or officially associated with ULVAC-PHI, Physical Electronics (PHI), Avantage, or any other commercial XPS software provider.
+
+All third-party software names, trademarks, and product references remain the property of their respective owners. Any references to commercial XPS software are made solely for technical identification, scientific discussion, or interoperability.
+
+The software is distributed under the MIT License. This license covers the original software and materials included in this repository and does not provide rights to third-party proprietary software or intellectual property.
+
+Users are responsible for complying with applicable third-party software licenses, data-use agreements, and relevant laws.
+
+**Scientific disclaimer:** Binding-energy referencing must be validated by the researcher. The software does not guarantee the scientific accuracy of reference peak assignments or corrected spectra.
+
+**No warranty:** This software is provided "AS IS", without warranties of any kind, as specified in the LICENSE file.
