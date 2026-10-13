@@ -100,3 +100,4 @@ https://doi.org/10.5281/zenodo.23306324
 GitHub can also generate a citation from the repository's `CITATION.cff` file. Use the citation information shown in the Zenodo record if it differs from this short example.
 License and feedback
 See the repository's `LICENSE` file for the applicable license terms. Report problems or request improvements through GitHub Issues.
+Python codes developed with the help of ChatGPT
